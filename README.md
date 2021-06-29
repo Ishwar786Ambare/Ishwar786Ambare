@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me through mail ishwarambare@gmail.com
 
-## Hello, I'm Abdelaali 👋
+## Hello, I'm Ishwar 👋
 
 Hi, I'm [Abdelaali ES SALMI!](https://abdelaali.tech), a passionate self-taught Full Stack Web Developer 🚀 from Morocco.
 
