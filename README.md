@@ -41,13 +41,9 @@ Hi, I'm [Ishwar Ambare!](https://www.linkedin.com/in/ishwar-a-926b42129), a pass
 <br />
 <br />
 <br />
-<br />
-<br />
 
-[facebook]: https://www.facebook.com/abdlali.sa
-[twitter]: https://twitter.com/abdlalisalmi
-[linkedin]: https://www.linkedin.com/in/abdlalisalmi/
-[instagram]: https://www.instagram.com/abdlali_salmi/
+[linkedin]: https://www.linkedin.com/in/ishwar-a-926b42129
+[instagram]: https://www.instagram.com/ishwar_ambare/
 
 
 - 👀 I’m interested in giving optimum bussines solution for my clint 
