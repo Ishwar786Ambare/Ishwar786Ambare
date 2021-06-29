@@ -34,7 +34,9 @@ Hi, I'm [Ishwar Ambare!](https://www.linkedin.com/in/ishwar-a-926b42129), a pass
 <img align="left" alt="abdlalisalmi Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdlalisalmi&show_icons=true&hide_border=true&hide_title=true&layout=compact&icon_color=17D778&bg_color=0d1117&text_color=e1e4e8" />
 <br />
 <br />
-
+<br />
+<br /><br />
+<br />
 [facebook]: https://www.facebook.com/abdlali.sa
 [twitter]: https://twitter.com/abdlalisalmi
 [linkedin]: https://www.linkedin.com/in/abdlalisalmi/
