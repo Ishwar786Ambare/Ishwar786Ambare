@@ -39,6 +39,12 @@ Hi, I'm [Ishwar Ambare!](https://www.linkedin.com/in/ishwar-a-926b42129), a pass
 [linkedin]: https://www.linkedin.com/in/abdlalisalmi/
 [instagram]: https://www.instagram.com/abdlali_salmi/
 
+
+
+
+
+
+
 - 👀 I’m interested in giving optimum bussines solution for my clint 
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on ...
