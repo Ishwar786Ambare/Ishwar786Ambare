@@ -6,17 +6,7 @@
 
 ## Hello, I'm Ishwar 👋
 
-Hi, I'm [Abdelaali ES SALMI!](https://abdelaali.tech), a passionate self-taught Full Stack Web Developer 🚀 from Morocco.
-
-## Computer Science Student :mortar_board:
-
-<img align="right" alt="GIF" width="500" src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg" />
-
-#### 1337 School:
-
-currently, I'm studying programming and computer science and learning some tools that allow me to analyze complex systems.
-#### Networking:
-I have a diploma in techniques of information network, administration of systems and network
+Hi, I'm [Ishwar Ambare!](https://www.linkedin.com/in/ishwar-a-926b42129), a passionate self-taught Full Stack Web Developer 🚀 from India.
 
 ### Connect with me:
 
@@ -48,9 +38,6 @@ I have a diploma in techniques of information network, administration of systems
 
 
 <img align="left" alt="abdlalisalmi Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdlalisalmi&show_icons=true&hide_border=true&hide_title=true&layout=compact&icon_color=17D778&bg_color=0d1117&text_color=e1e4e8" />
-
-
-
 
 
 [facebook]: https://www.facebook.com/abdlali.sa
