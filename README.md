@@ -1,9 +1,3 @@
-- 👋 Hi, I’m Ishwar Ambare
-- 👀 I’m interested in giving optimum bussines solution for my clint 
-- 🌱 I’m currently learning Machine Learning.
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me through mail ishwarambare@gmail.com
-
 ## Hello, I'm Ishwar 👋
 
 Hi, I'm [Ishwar Ambare!](https://www.linkedin.com/in/ishwar-a-926b42129), a passionate self-taught Full Stack Web Developer 🚀 from India.
@@ -44,6 +38,11 @@ Hi, I'm [Ishwar Ambare!](https://www.linkedin.com/in/ishwar-a-926b42129), a pass
 [twitter]: https://twitter.com/abdlalisalmi
 [linkedin]: https://www.linkedin.com/in/abdlalisalmi/
 [instagram]: https://www.instagram.com/abdlali_salmi/
+
+- 👀 I’m interested in giving optimum bussines solution for my clint 
+- 🌱 I’m currently learning Machine Learning.
+- 💞️ I’m looking to collaborate on ...
+- 📫 You can reach me through mail ishwarambare@gmail.com
 <!---
 Ishwar786Ambare/Ishwar786Ambare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
