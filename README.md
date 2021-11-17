@@ -4,10 +4,10 @@ Hi, I'm [Ishwar Ambare!](https://www.linkedin.com/in/ishwar-a-926b42129), a pass
 
 ### Connect with me:
 
-[<img align="left" alt="abdlali.s" width="22px" src="https://image.flaticon.com/icons/svg/733/733547.svg" />][facebook]
-[<img align="left" alt="abdlalisalmi | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
-[<img align="left" alt="abdlalisalmi | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/733/733561.svg" />][linkedin]
-[<img align="left" alt="abdlali_salmi | Instagram" width="22px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
+[<img align="left" alt="ishwar.s" width="22px" src="https://image.flaticon.com/icons/svg/733/733547.svg" />][facebook]
+[<img align="left" alt="ishwar | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
+[<img align="left" alt="ishwar | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/733/733561.svg" />][linkedin]
+[<img align="left" alt="ishwar | Instagram" width="22px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
 <br />
 
 ### Languages and Tools:
