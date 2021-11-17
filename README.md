@@ -24,8 +24,13 @@ Hi, I'm [Ishwar Ambare!](https://www.linkedin.com/in/ishwar-a-926b42129), a pass
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="PhotoShop" width="26px" src="https://image.flaticon.com/icons/svg/888/888872.svg" />
-<br />
-<br />
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 - 👀 I’m interested in giving optimum bussines solution for my clint 
 - 🌱 I’m currently learning Machine Learning.
