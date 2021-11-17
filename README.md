@@ -2,13 +2,13 @@
 
 Hi, I'm [Ishwar Ambare!](https://www.linkedin.com/in/ishwar-a-926b42129), a passionate self-taught Full Stack Web Developer 🚀 from India.
 
-### Connect with me:
+<!-- ### Connect with me:
 
 [<img align="left" alt="ishwar.s" width="22px" src="https://image.flaticon.com/icons/svg/733/733547.svg" />][facebook]
 [<img align="left" alt="ishwar | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
 [<img align="left" alt="ishwar | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/733/733561.svg" />][linkedin]
 [<img align="left" alt="ishwar | Instagram" width="22px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
-<br />
+<br /> -->
 
 ### Languages and Tools:
 
