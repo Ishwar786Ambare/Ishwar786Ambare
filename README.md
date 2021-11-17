@@ -27,6 +27,11 @@ Hi, I'm [Ishwar Ambare!](https://www.linkedin.com/in/ishwar-a-926b42129), a pass
 <br />
 <br />
 
+- 👀 I’m interested in giving optimum bussines solution for my clint 
+- 🌱 I’m currently learning Machine Learning.
+- 💞️ I’m looking to collaborate on ...
+- 📫 You can reach me through mail ishwarambare@gmail.com
+
 ### My GitHub Stats:
 <img align="left" alt="abdlalisalmi Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdlalisalmi&show_icons=true&hide_border=true&hide_title=true&icon_color=17D778&bg_color=0d1117&text_color=e1e4e8" />
 
@@ -56,10 +61,7 @@ Hi, I'm [Ishwar Ambare!](https://www.linkedin.com/in/ishwar-a-926b42129), a pass
 <br>
 <br>
 
-- 👀 I’m interested in giving optimum bussines solution for my clint 
-- 🌱 I’m currently learning Machine Learning.
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me through mail ishwarambare@gmail.com
+
 <!---
 Ishwar786Ambare/Ishwar786Ambare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
