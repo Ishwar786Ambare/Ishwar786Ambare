@@ -45,6 +45,12 @@ Hi, I'm [Ishwar Ambare!](https://www.linkedin.com/in/ishwar-a-926b42129), a pass
 [linkedin]: https://www.linkedin.com/in/ishwar-a-926b42129
 [instagram]: https://www.instagram.com/ishwar_ambare/
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 - 👀 I’m interested in giving optimum bussines solution for my clint 
 - 🌱 I’m currently learning Machine Learning.
